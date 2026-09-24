@@ -1,11 +1,5 @@
 # Olá, eu sou Bruno Araújo 👋
 
-Sou analista de sistemas e desenvolvedor web. Minha experiência começou no suporte e passou pelo desenvolvimento de sistemas de gestão, regras de negócio e consultas SQL. Também desenvolvo projetos próprios com React, Next.js, Node.js e PostgreSQL.
+Comecei no suporte técnico e hoje trabalho com análise e desenvolvimento de sistemas. No dia a dia, lido com regras de negócio, consultas SQL e exportação de dados para sistemas de contabilidade pública.
 
-## Projetos em destaque
-
-- [SASF](https://github.com/BrunoARS-dev/SASF) — sistema de agendamento de confissões, com reserva pública e painel de gestão.
-- [Cardápio digital](https://github.com/BrunoARS-dev/cardapio) — cardápio demonstrativo com carrinho e envio do pedido pelo WhatsApp.
-- [Central Combate Fire](https://github.com/BrunoARS-dev/central-combate-fire-portfolio) — site institucional para apresentar serviços e solicitar orçamentos.
-
-Veja mais projetos e minha experiência no [portfólio](https://brunoaraujo.dev.br).
+Nos projetos pessoais, pratico desenvolvimento web com React, Next.js e Node.js. Os repositórios fixados aqui mostram alguns desses trabalhos; no [meu portfólio](https://brunoaraujo.dev.br) conto mais sobre a experiência profissional e os projetos.
